@@ -6,7 +6,7 @@ import pandas as pd
 from datetime import timedelta, time
 import io
 
-st.title("KMX Asignación de JC en Ventanas")
+st.title("KMX Asignación de JC en Ventanas:")
 st.write("Sube el archivo de Jit Calls para procesar las órdenes y asignar ventanas.")
 
 # Cargar archivo de órdenes
